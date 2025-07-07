@@ -1,5 +1,2 @@
 Riyasudeen
-<<<<<<< HEAD
 we are boys
-=======
->>>>>>> 07ef507c27ab7c056255cf575207ae82eb64b300
